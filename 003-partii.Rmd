@@ -1,0 +1,7 @@
+---
+output: 
+  pdf_document: default
+  html_document: default
+---
+
+# (PART) 单组或两组数据的比较 {-}
